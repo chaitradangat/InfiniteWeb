@@ -1,0 +1,10 @@
+C:\Users\Admin\Desktop\InfiniteWeb\InfiniteWeb\bin\Debug\InfiniteWeb.dll
+C:\Users\Admin\Desktop\InfiniteWeb\InfiniteWeb\bin\Debug\InfiniteWeb.pdb
+C:\Users\Admin\Desktop\InfiniteWeb\InfiniteWeb\obj\Debug\InfiniteWeb.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\InfiniteWeb\InfiniteWeb\obj\Debug\InfiniteWeb.dll
+C:\Users\Admin\Desktop\InfiniteWeb\InfiniteWeb\obj\Debug\InfiniteWeb.pdb
+D:\_Projects\GitHub Projects\InfiniteWeb\InfiniteWeb\bin\Debug\InfiniteWeb.dll
+D:\_Projects\GitHub Projects\InfiniteWeb\InfiniteWeb\bin\Debug\InfiniteWeb.pdb
+D:\_Projects\GitHub Projects\InfiniteWeb\InfiniteWeb\obj\Debug\InfiniteWeb.csproj.CoreCompileInputs.cache
+D:\_Projects\GitHub Projects\InfiniteWeb\InfiniteWeb\obj\Debug\InfiniteWeb.dll
+D:\_Projects\GitHub Projects\InfiniteWeb\InfiniteWeb\obj\Debug\InfiniteWeb.pdb
